@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xico26
-- 👀 I’m interested in Discord bots, web development
+- 👀 I’m interested in Web Development, Discord Bots and more!
 - 🌱 I’m currently learning HTML, CSS & JS
 
 <!---
